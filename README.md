@@ -22,7 +22,7 @@ Süper Lig'deki temsilcimiz Kayserispor, bu sezon gösterdiği performansla dikk
 
 Kayseri'deki sağlık kuruluşları, sundukları hizmetlerle halkın sağlığını ön planda tutuyor. Dijital sağlık uygulamaları ve yeni hizmet anlayışı ile sağlık sektörü sürekli olarak gelişiyor. [Kayseri haber](https://enkayseri.com) platformlarında bu konudaki yenilikler sıkça gündeme gelmekte.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grlznp0BVSw?si=ttqFFc0HPAO0y49H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ttqFFc0HPAO0y49H)](https://youtu.be/ttqFFc0HPAO0y49H)
 
 ## Kayseri Haberleri
 
